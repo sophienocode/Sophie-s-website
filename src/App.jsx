@@ -1,5 +1,6 @@
 import NavBar from './components/NavBar';
 import './index.css'
+import Contact from './sections/Contact';
 import Hero from './sections/Hero';
 import PreviewSkils from './sections/PreviewSkils';
 
@@ -12,6 +13,7 @@ function App()  {
     <NavBar />
     <Hero />
     <PreviewSkils />
+    <Contact />
     </>
   )
 }
