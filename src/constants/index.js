@@ -56,6 +56,8 @@ const techStackIcons = [
   },
 
 
+ /* 
+
   {
     name: "MongoDB",
     subtitle: "Learning ",
@@ -65,6 +67,8 @@ const techStackIcons = [
   },
 
  
+
+
   {
     name: "Java Script",
     subtitle: "Intermediate Level",
@@ -113,6 +117,7 @@ const techStackIcons = [
     scale: 35,
     rotation:[0, 0, 0],
   },
+*/
   
   
   
