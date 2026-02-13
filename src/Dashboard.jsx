@@ -9,7 +9,7 @@ export default function Dashboard() {
     <>
       <h1>Dashboard the website!</h1>
       <h2>think in some ideas</h2>
-
+       <h3>maybe a calendar?</h3>
 
 
       
