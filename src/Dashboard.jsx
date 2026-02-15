@@ -11,7 +11,8 @@ export default function Dashboard() {
       <h2>think in some ideas</h2>
        <h3>maybe a calendar?</h3>
        <h4>Ola ola oal ola ola ola</h4>
-
+       <h1>helo world</h1>
+       <h2>smth good today</h2>
       
 
     </>
